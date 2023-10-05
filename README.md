@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=smdtb&animation=fadeIn&fontSize=90" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smdtb1998)](https://solved.ac/smdtb1998/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smdtb1998](https://solved.ac/smdtb1998/)
 <!--
 **smdtb/smdtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
